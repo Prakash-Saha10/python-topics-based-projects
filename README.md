@@ -1,6 +1,6 @@
-# 🐍 Python Practice Projects - 12 Mini Projects
+# 🐍 Python Practice Projects - 11 Mini Projects
 
-A collection of **12 simple, focused projects** to practice and remember Python concepts. Each project targets specific topics with clear examples and exercises.
+A collection of **11 simple, focused projects** to practice and remember Python concepts. Each project targets specific topics with clear examples and exercises.
 
 Perfect for beginners and intermediate learners who want to solidify their Python fundamentals!
 
@@ -19,7 +19,7 @@ Perfect for beginners and intermediate learners who want to solidify their Pytho
 | 9 | **Simple Bank** | Classes, Methods, Static/Class Methods | ~65 |
 | 10 | **Vehicle System** | Inheritance, Polymorphism, @property | ~70 |
 | 11 | **Timing Decorator** | Decorators, @wraps, Decorator Factory | ~60 |
-| 12 | **Data Streamer** | Generators, yield, Generator Expressions | ~65 |
+
 
 ## 🚀 Quick Start
 
